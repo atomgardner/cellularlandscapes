@@ -15,4 +15,4 @@ xdg-shell-protocol.h:
 clean:
 	rm -f cellularlandscapes xdg-shell-protocol.c xdg-shell-protocol.h *.o
 
-.PHONY: all clean
+.PHONY: clean
